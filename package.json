@@ -1,15 +1,15 @@
 {
-  "name": "kittycloud",
+  "name": "chatgpt",
   "version": "1.0.1",
-  "description": "KittyCloud Installer",
+  "description": "chatgpt Installer",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "dist": "electron-builder"
   },
   "build": {
-    "appId": "com.kittycloud.app",
-    "productName": "KittyCloud",
+    "appId": "com.chatgpt.app",
+    "productName": "chatgpt",
     "directories": {
       "output": "dist"
     },
